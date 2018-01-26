@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/alysicmuse/alysicmuse.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### test screenshot
-![L.1pic1(/images/test.png
+![L.1pic1(/images/test.png])
 
 
 
