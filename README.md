@@ -42,6 +42,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+
+
+
+
+
+
+
 ![l.1pic1](/images/draft.png)
 
 
