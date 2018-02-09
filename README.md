@@ -11,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-[l.1pic1](/images/2.png)
+![l.1pic1](/images/2.png)
 
 
 
@@ -20,25 +20,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-[l.1pic1](/images/3.png)
+![l.1pic1](/images/3.png)
 
 
 
 
 
-[l.1pic1](/images/4.png)
+![l.1pic1](/images/4.png)
 
 
 
 
 
-[l.1pic1](/images/5.png)
+![l.1pic1](/images/5.png)
 
 
 
 
 
-[l.1pic1](/images/mixer.png)
+![l.1pic1](/images/mixer.png)
 
 
 
