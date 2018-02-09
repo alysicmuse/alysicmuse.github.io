@@ -1,8 +1,6 @@
 ## Welcome to Lydia B30 Tech Project
 
-You can use the [editor on GitHub](https://github.com/alysicmuse/alysicmuse.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here I show the make of my first project, it is a mix of loops turned into a 1 mintue song. I started out with one loop and added other loops that have the same vibe as the first loop, 
 ### test screenshot
 ![l.1pic1](/images/1.png)
 
