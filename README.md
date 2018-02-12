@@ -10,7 +10,7 @@ I created a one minute beat using Logic pro x loops, with these loops i made the
   
   
   
-  In this screenshot this shows my the first three loops and the mixer bar, the mixer bar is there you can edit the sound of the loops and change speed amd evem choose where you want to hear the sound more using the pan. The mixer is alot of help to bringing the sounds together as one.
+  In this screenshot this shows my the first three loops and the mixer bar, the mixer bar is there you can edit the sound of the loops and change speed and even choose where you want to hear the sound more using the pan. The mixer is alot of help to bringing the sounds together as one.
 ![l.1pic1](/images/1.png)
 
 
@@ -61,10 +61,6 @@ I created a one minute beat using Logic pro x loops, with these loops i made the
 
 
 
-![l.1pic1](/images/mixer.png)
-
-
-
 
 
 
@@ -86,6 +82,9 @@ I created a one minute beat using Logic pro x loops, with these loops i made the
 
 
 My tip is to make sure your icon matches the name, you may become confused if your icon is a guitar but the name is a drum then you will not know what the sound is and you become unorganized.
+
+
+
 
 
 
