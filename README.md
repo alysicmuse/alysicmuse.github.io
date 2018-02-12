@@ -72,10 +72,24 @@ I created a one minute beat using Logic pro x loops, with these loops i made the
 
 
 
+
+  This is the finished touch of the whole one minute song where I learned basic commands and took several loops to make it from a sound into a beat. This was easy to do once I was able to know where everything was in Logic pro x and it helped me better understand what can be used and what can not be used to make sounds more enhanced.
+
+
+
+
 ![l.1pic1](/images/draft.png)
 
 
 
+
+
+
+My tip is to make sure your icon matches the name, you may become confused if your icon is a guitar but the name is a drum then you will not know what the sound is and you become unorganized.
+
+
+
+![l.1pic1](/images/icon.png)
 
 
 ### Markdown
