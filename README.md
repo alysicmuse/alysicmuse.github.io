@@ -2,7 +2,13 @@
 
 I created a one minute beat using Logic pro x loops, with these loops i made them longer, split them, cut them and mixed them, i also used 2 synths to help bring the loops together. In this lesson there was alot of key commands that i was taught which made it easier for me to find shortcuts. With the loops you can extend the loop by highlighting the loop you want and clicking "L" or you can open the loop menu bar by clicking "O" and there are many more. It is hard to remember all of these shortcuts at once but in time it becomes a easy useful habit.
 
+
+
+
 [projectfile](/audio/lifeebeat.mp3)
+
+
+
 
 
 ### test screenshot
