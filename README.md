@@ -74,7 +74,7 @@ I created a one minute beat using Logic pro x loops, with these loops i made the
 
 
 
-![l.1pic1](/images/draft.png)
+![l.1pic1](/images/finished.png)
 
 
 
