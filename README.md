@@ -81,7 +81,7 @@ I created a one minute beat using Logic pro x loops, with these loops i made the
 
 
 
-My tip is to make sure your icon matches the name, you may become confused if your icon is a guitar but the name is a drum then you will not know what the sound is and you become unorganized.
+My tip is to make sure your icon matches the name, you may become confused if your icon is a guitar but the name is a drum then you will not know what the sound is and you become unorganized. To change the name double click on the current name and type in the new name, then you can click "tab" to move onto the next name to change. To change the icon press "control" then click and a pop up should appear, there you will find the different icons and find the one that best matches with the name.
 
 
 
