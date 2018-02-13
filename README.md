@@ -11,6 +11,12 @@ I created a one minute beat using Logic pro x loops, with these loops i made the
   
   
   In this screenshot this shows my the first three loops and the mixer bar, the mixer bar is there you can edit the sound of the loops and change speed and even choose where you want to hear the sound more using the pan. The mixer is alot of help to bringing the sounds together as one.
+  
+  
+  
+  
+  
+  
 ![l.1pic1](/images/1.png)
 
 
@@ -48,7 +54,7 @@ I created a one minute beat using Logic pro x loops, with these loops i made the
 
 
 
-  To make the loops not feel as if they keep repeating it was time to throw in another loop. im this case a piano loop that matched with the other loops, this loop broke the other three loops in a 4 second break to make the listeners more interested in the creativity of the tracks then all the loops played as one and there was a softer side to the song in the end.
+  To make the loops not feel as if they keep repeating it was time to throw in another loop. In this case a piano loop that matched with the other loops, this loop broke the other three loops in a 4 second break to make the listeners more interested in the creativity of the tracks then all the loops played as one and there was a softer side to the song towards the end.
   
   
   
